@@ -1,0 +1,156 @@
+body {
+  background-color: white;
+  font-family: Roboto,sans-serif;
+  color: #000;
+  margin:0px;
+}
+
+.info {
+  width: 100%;
+  height:200px;
+}
+
+.left-container {
+  width: 55%;
+  height:700px;
+  padding:10px;
+  float:left;
+}
+
+.right-container {
+  width: 40%;
+  height:700px;
+  padding: 10px;
+  float:right;
+}
+
+h1 {
+  font-size: 50px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 300;
+  letter-spacing: .02rem;
+  padding:10px;
+  color: #585c64;
+}
+
+.CLIQUE {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+.storyboard {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.w-list-unstyled {
+  list-style: none;
+  color: #585c64;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  font-weight: 300;
+  letter-spacing: .02rem;
+}
+
+.prdetails {
+border-top: 6px solid #000;
+padding: 20px;
+width: 290px;
+}
+
+.bottom-container {
+  width: 100%;
+  height: 500px;
+  position: relative;
+  display: block;
+  max-width: 850px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+ol {
+  color: #585c64;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  font-weight: 300;
+  letter-spacing: .05rem;
+
+}
+    
+blockquote {
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+    padding: 2.5rem;
+    border: 2px solid #eee;
+    border-radius: 8px;
+    font-family: Roboto,sans-serif;
+    font-size: 1.2rem;
+    font-style: italic;
+    font-weight: 400;
+    text-align: left;
+    width: 600px;
+}
+
+.center-gray-grid {
+  width: 100%;
+  height: 850px;
+  background-color: #FAFAFA;
+}
+
+.CLIQUE-3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 39%;
+  float:left;
+}
+
+.solution {
+  padding:100px;
+}
+
+.resturant {
+  padding: 60px;
+}
+
+.group-chat {
+  padding: 60px;
+}
+
+.CLIQUE-4 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 41%;
+  float:right;
+}
+
+.CLIQUE-5 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 41%;
+  float:left;
+}
+
+.CLIQUE-6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 41%;
+  float:right;
+}
+
+a {
+  padding: 20px;
+}
